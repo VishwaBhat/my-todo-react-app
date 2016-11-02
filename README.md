@@ -1,6 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+*NOTE* 
+******************************
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) provided by Facebook. I'm building basic ToDo list App upon the create react app project. This project still have lots of bugs & junk code, I'll progressively remove them and make it stable along with the comments.
+******************************
 
-Below you will find some information on how to perform common tasks.<br>
+Below you will find some information on how to perform common tasks provided by Create-React-App.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Table of Contents
